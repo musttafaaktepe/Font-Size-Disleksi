@@ -14,6 +14,8 @@ function App() {
     }
   };
 
+  
+
   const handleFontSizeChange = (e) => {
     setFontSize(parseInt(e.target.value, 10));
   };
