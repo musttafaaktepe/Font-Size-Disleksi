@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Dinamik Yazı Tipi ile Kare Oluştur</h1>
+      <h1>Dinamfdsfsdik Yazı Tipi ile Kare Oluştur</h1>
       <div className="controls">
         <label htmlFor="fontSize">Yazı Tipi Büyüklüğü: </label>
         <input
